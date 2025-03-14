@@ -1,6 +1,6 @@
 {
     "name": "zoocha/cke5-recipe",
-    "description": "A short description of what your package does",
+    "description": "CKE5 Recipe Bundle",
     "type": "drupal-recipe",
     "require": {
         "php": ">=8.1",
