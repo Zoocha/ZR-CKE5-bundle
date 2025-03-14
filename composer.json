@@ -1,5 +1,5 @@
 {
-    "name": "zoocha/zoocha-cke5-recipe",
+    "name": "zr/cke5-recipe",
     "description": "CKE5 Recipe Bundle",
     "type": "drupal-recipe",
     "require": {
