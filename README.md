@@ -4,7 +4,7 @@ To install the Zoocha CKE5 Recipe, follow the steps below:
 
 1. Open your terminal.
 2. Navigate to your project directory. 
-4. Run the following command:
+3. Run the following command:
 
     ```sh
     ddev drush cdel editor.editor.basic_html
