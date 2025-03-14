@@ -11,10 +11,8 @@ To install the Zoocha CKE5 Recipe, follow the steps below:
 4. Run the following command:
 
     ```sh
-    ddev drush cdel editor.editor.basic_html
-    ddev drush cdel editor.editor.full_html
-    ddev drush cr
-    ddev drush recipe recipes/custom/zoocha-cke5-recipe
+    ddev drush recipe recipes/custom/cke5-recipe
+    ddev drush cim --partial --source=recipes/custom/cke5-recipe/config -y
     ```
 
 This command will execute the Zoocha CKE5 Recipe installation.
