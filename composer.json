@@ -1,7 +1,7 @@
 {
     "name": "zr/cke5-recipe",
     "description": "CKE5 Recipe Bundle",
-    "type": "drupal-recipe",
+    "type": "drupal-custom-recipe",
     "require": {
         "php": ">=8.1",
         "drupal/editor_advanced_link": "^2.2",
