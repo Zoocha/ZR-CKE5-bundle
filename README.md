@@ -1,6 +1,6 @@
-# Zoocha CKE5 Recipe Installation Guide
+# ZR CKE5 Recipe Installation Guide
 
-To install the Zoocha CKE5 Recipe, follow the steps below:
+To install the ZR CKE5 Recipe, follow the steps below:
 
 1. Open your terminal.
 2. Navigate to your project directory. 
@@ -15,4 +15,4 @@ To install the Zoocha CKE5 Recipe, follow the steps below:
     ddev drush cim --partial --source=recipes/custom/cke5-recipe/config -y
     ```
 
-This command will execute the Zoocha CKE5 Recipe installation.
+This command will execute the ZR CKE5 Recipe installation.
