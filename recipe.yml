@@ -2,6 +2,9 @@ name: 'Zoocha CKE5 Recipe'
 description: 'Installs Zoocha CKE5 module and baseline configurations.'
 type: 'Feature'
 
+recipes:
+  - zr-media-bundle
+
 install:
   - ckeditor5
   - editor_advanced_link
